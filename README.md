@@ -1,4 +1,4 @@
-# Reinforcement learning for metabot climbing obstacle
+# Reinforcement Learning for Metabot Climbing Obstacle
 
 ## Overview
 
